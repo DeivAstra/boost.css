@@ -1,6 +1,6 @@
 /* 
 	Boost CSS selectors.
-    Author : Denis Ivanchik (danykey@gmail.com)
+	Author : Denis Ivanchik (danykey@gmail.com)
 	Regex search Boost declarations patterns: 
 		class="width:10" -> class="(.+)\:([a-zA-Z]*)"
 		:width="10"      -> :[a-zA-Z-]+="\S+"
