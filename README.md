@@ -1,5 +1,5 @@
 # boost.css
-Predefined selectors library.
+Predefined selectors library for short styles declarations.
 
 **IDEA:**
 
